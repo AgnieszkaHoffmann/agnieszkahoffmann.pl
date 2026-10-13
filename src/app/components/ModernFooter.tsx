@@ -34,7 +34,7 @@ export function ModernFooter() {
               </p>
               <div className="flex gap-4">
                 <a
-                  href="https://www.instagram.com/pracownia_agnieszka_hoffmann/"
+                  href="https://www.instagram.com/hairstyleby_agnieszka_hoffmann/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-3 bg-[#EEEDE7]/10 hover:bg-[#EEEDE7]/20 transition-colors rounded-full"
